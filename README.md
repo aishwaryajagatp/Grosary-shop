@@ -1,2 +1,2 @@
 # Grosary-shop
-It is a like a big basket
+It is like a big basket website.fully responsive website.
